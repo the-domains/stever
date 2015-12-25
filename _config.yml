@@ -1,0 +1,28 @@
+name: Stever
+favicon: null
+layout_spectrum: 0.07416454632766545
+typography_spectrum: 0.292531548300758
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.35276501066982746
+  lightness: 0.9313889872282743
+  saturation: 0.22748360713012516
+  rhythmicContrast: 0.9656981737352908
+purpose: []
